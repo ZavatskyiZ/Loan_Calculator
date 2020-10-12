@@ -7,7 +7,7 @@
   .demo-card-wide > .mdl-card__title {
     color: #fff;
     height: 176px;
-    background: url('../backgr.png') center / cover;
+    background: url('./backgr.png') center / cover;
   }
   .demo-card-wide > .mdl-card__menu {
     color: #fff;
